@@ -4,6 +4,9 @@
     "email": "mudduluru.sravankumarvarma07@gmail.com"
   },
   "records": {
-    "CNAME": "cname.vercel-dns.com"
+    "CNAME": "cname.vercel-dns.com",
+    "TXT": [
+      "vc-domain-verify=shrxvxn.is-a.dev,4adb60e326ac9fa0eae1"
+    ]
   }
 }
